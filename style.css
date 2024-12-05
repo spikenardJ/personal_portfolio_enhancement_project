@@ -102,7 +102,7 @@ h2, a {
 }
 
 @keyframes border-pulsate {
-    0%   { border-color: rgb(9, 92, 92, 0.6); }
+    0%   { border-color: rgba(30, 237, 237, 0.6); }
     50%  { border-color: transparent; }
     100% { border-color: rgb(9, 92, 92, 0.6); }
 }
