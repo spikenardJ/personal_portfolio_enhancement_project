@@ -380,7 +380,7 @@ marquee {
 /* Responsive Design for smaller screen sizes */
   
 @media screen and (max-width: 768px){
-    .navigation, .footer {
+    .nav, .footer {
         flex-direction: column;
         position: relative;
         width: 100%;
